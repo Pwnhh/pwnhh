@@ -3,5 +3,6 @@ public class HelloWorld {
         System.out.println("Hello, World!");
 System.out.println("Hello, Hongchuanting!");
 System.out.println("Hello,Pengwenna!");
+System.out.println("Hello,Linyinghong!");
     }
 }
