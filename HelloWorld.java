@@ -1,10 +1,12 @@
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
-System.out.println("Hello, Hongchuanting!");
-System.out.println("Hello,Pengwenna!");
-System.out.println("Hello,Linyinghong!");
-System.out.println("Hello,Lujiayi!");
+package test;
 
-    }
+public class GitTag {
+	public static void main(String[] args) {
+		System.out.println("Version1.0");
+        System.out.println("洪川婷");
+        System.out.println("彭文娜");
+        System.out.println("林莹虹");
+		System.out.println("张珈嘉");
+	}
 }
+
